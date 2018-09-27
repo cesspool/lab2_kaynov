@@ -1,1 +1,3 @@
-this is new file
+this is smth!
+it's a new file
+end of line
